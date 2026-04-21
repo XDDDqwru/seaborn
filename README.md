@@ -1,8 +1,5 @@
 # seaborn
 
-
-¡Entendido! Aquí tienes una guía visual de los gráficos más importantes de Seaborn para que puedas identificar cómo se ve cada uno:
-
 ### 1. Gráficos de Relación (Relational)
 Se usan para ver cómo se relacionan las variables numéricas.
 * **Scatterplot:** Puntos individuales.
@@ -37,4 +34,3 @@ http://googleusercontent.com/image_collection/image_retrieval/909844032928137389
 
 http://googleusercontent.com/image_collection/image_retrieval/9098440329281373899_1
 
-Estas imágenes resumen la estética "limpia" y profesional que caracteriza a Seaborn frente a otras librerías. ¿Te gustaría ver el código específico de alguno de estos?
